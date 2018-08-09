@@ -1,5 +1,6 @@
 
 # Recursive Level Order Traversal of a Binary Tree.
+## Time Complexity: O(n)^2 where n is number of nodes in the binary tree
 class Node:
     def __init__(self, val):
         self.val = val
