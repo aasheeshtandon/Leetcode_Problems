@@ -5,7 +5,7 @@ class Node:
         self.data = data
         self.next = None
 
-
+# Class for a linkedlist
 class LinkedList:
     # Method to initialize a node object
     def __init__(self):
